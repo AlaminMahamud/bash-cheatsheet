@@ -21,3 +21,7 @@ NAME="John"
 echo "Hi $NAME"
 echo 'Hi $NAME'
 ```
+
+## Shell Execution
+echo "I'm in $(pwd)"
+echo "I'm in `pwd`"
