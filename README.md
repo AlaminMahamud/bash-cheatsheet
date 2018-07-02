@@ -14,3 +14,10 @@ echo $NAME
 echo "$NAME"
 echo "${NAME}!"
 ```
+
+## String quotes
+```
+NAME="John"
+echo "Hi $NAME"
+echo 'Hi $NAME'
+```
